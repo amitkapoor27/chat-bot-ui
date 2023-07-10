@@ -51,17 +51,17 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 Clone the repository:
 
 ```bash
-https://github.com/amitkapoor27/eduBridge.git
+https://github.com/amitkapoor27/chat-bot-ui.git
 ```
 Install the dependencies:
 ```bash
-cd eduBridge
+cd chat-bot-ui
 npm install
 ```    
 
 To run the application locally, follow these steps:
 
     1. Clone the repository to your local machine using git clone.
-    2. Install the dependencies using `npm install` .
+    2. Install the dependencies using `npm install`.
     3. Start the development server using npm start.
     4. Open your web browser and navigate to http://localhost:3000 to view the application.
